@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-C:/Users/javas/Documents/GitHub/lib/resources_jp.jar/Constellation/Constellation.apk
+C:/Users/Windows/Documents/GitHub/Constellation/Constellation.apk
 SceneListBegin?
 Assets/Scenes/Constellation.unity
 SceneListEnd?
